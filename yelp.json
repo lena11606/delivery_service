@@ -1,0 +1,48 @@
+{
+  "businesses": [
+    {
+      "id": "cB_6FKJC75VSXDUL5wc0gA",
+      "alias": "boba-guys-los-angeles-3",
+      "name": "Boba Guys",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/biH4HqPGO5K22QVsxxJMfg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/boba-guys-los-angeles-3?adjust_creative\u003didPxoo75MHc6fwIvXxmmkg\u0026utm_campaign\u003dyelp_api_v3\u0026utm_medium\u003dapi_v3_business_search\u0026utm_source\u003didPxoo75MHc6fwIvXxmmkg",
+      "review_count": 399,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 34.06408,
+        "longitude": -118.26535
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "1670 Beverly Blvd",
+        "city": "Los Angeles",
+        "zip_code": "90026",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1670 Beverly Blvd",
+          "Los Angeles, CA 90026"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 5168.405737339758
+    }
+  ],
+  "total": 1400,
+  "region": {
+    "center": {
+      "longitude": -118.287132,
+      "latitude": 34.02116
+    }
+  }
+}
